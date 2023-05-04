@@ -10,7 +10,7 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 ## 🎯 Programming goals 
 
 ### 🚀 Building 4 fullstack 'vercel apps' using Astro's integration of React 
-- Already on the path to success with 2 apps in progress, looking for projects showcasing creativity and determination
+- Already on the path to success with 2 apps in progress, project for experience and one showcasing creativity in what it caters to, and efficiency in how it presents itself.
 
 ### 🌇 Volunteering work for mayoral-candidate Chloe Brown's website
 - Currently in the maintaining and onboarding phase, demonstrating commitment to impactful community engagement

@@ -8,8 +8,8 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 
 ## 🎯 Programming goals 
 
-### 🚀 Building 4 fullstack apps using Vercel and Astro's integration of client-side hydration on React 
-- Already on the path to success with 2 apps in progress, project for experience and one showcasing creativity in what it caters to, and efficiency in how it presents itself.
+### 🚀 Building 4 Fullstack Apps with Vercel & Astro's React Integration
+- Already on the path to success with 2 apps in progress with working client-side hydration!
 
 ### 🌇 Volunteering work for mayoral-candidate Chloe Brown's website
 - Currently in the maintaining and onboarding phase, commitment to an impactful community engagement

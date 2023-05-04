@@ -9,7 +9,7 @@
 ### 1. 🚀 Building 4 Fullstack Apps with Vercel & Astro's React Integration
 - Already on the path to success with 2 apps in progress with working client-side hydration!
 
-### 2. 🌇 Volunteering work for mayoral-candidate Chloe Brown's website
+### 2. 🌇 Volunteering work for mayoral-candidate REDACTED's website
 - Currently in the maintaining and onboarding phase, commitment to an impactful community engagement
 
 ### 3. Complete [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit1/summary?fw=pt)

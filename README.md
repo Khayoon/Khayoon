@@ -1,5 +1,5 @@
 ## 🌟 Portfolio 
-Web developer and data science aficionado, tech wizard who loves gizmos, gadets and fun $79 AAA games. Canadian 
+Web developer and data science aficionado, tech wizard who loves gizmos, gadets and programming. Canadian 
 
 🌐 Professional Expertise:
 * 🎨 CSS & HTML: Delivering visually stunning and responsive websites since 2019
@@ -8,13 +8,13 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 
 ## 🎯 Programming goals 
 
-### 🚀 Building 4 Fullstack Apps with Vercel & Astro's React Integration
+### 1. 🚀 Building 4 Fullstack Apps with Vercel & Astro's React Integration
 - Already on the path to success with 2 apps in progress with working client-side hydration!
 
-### 🌇 Volunteering work for mayoral-candidate Chloe Brown's website
+### 2. 🌇 Volunteering work for mayoral-candidate Chloe Brown's website
 - Currently in the maintaining and onboarding phase, commitment to an impactful community engagement
 
-### Complete [Deep Reinforcement Learning Course]([An ambitious journey to enhance skills and knowledge in the field of artificial intelligence](https://huggingface.co/learn/deep-rl-course/unit1/summary?fw=pt))
+### 3. Complete [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit1/summary?fw=pt)
 
 #### [Week 1 - Unit 1. Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit1/introduction?fw=pt)
 - [ ] Course

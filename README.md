@@ -9,11 +9,11 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 
 ## 🎯 Programming goals 
 
-### 🚀 Building 4 apps using Astro's integration of React 
-- Already on the path to success with 2 apps in progress, showcasing creativity and determination
+### 🚀 Building 4 fullstack 'vercel apps' using Astro's integration of React 
+- Already on the path to success with 2 apps in progress, looking for projects showcasing creativity and determination
 
-### 🌇 Maintaining Mayoral-candidate Chloe Brown's website
-- Currently in the onboarding phase, demonstrating commitment to impactful community engagement
+### 🌇 Volunteering work for mayoral-candidate Chloe Brown's website
+- Currently in the maintaining and onboarding phase, demonstrating commitment to impactful community engagement
 
 ### Complete [Deep Reinforcement Learning Course]([An ambitious journey to enhance skills and knowledge in the field of artificial intelligence](https://huggingface.co/learn/deep-rl-course/unit1/summary?fw=pt))
 

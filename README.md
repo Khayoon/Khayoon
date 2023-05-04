@@ -1,4 +1,4 @@
-## Web developer and data science aficionado, tech wizard who loves gizmos, gadets and programming. Canadian 
+## Web developer and data science aficionado, tech wizard who loves programming. Canadian 
 🌐 Professional Expertise:
 * 🎨 CSS & HTML: Delivering visually stunning and responsive websites since 2019
 * 🚀 JavaScript: Mastering dynamic web development since 2015

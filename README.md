@@ -1,4 +1,4 @@
-🌟 Portfolio and Goals
+## 🌟 Portfolio 
 
 A web developer and data science aficionado, tech wizard who loves gizmos, gadets and fun $79 AAA games.
 

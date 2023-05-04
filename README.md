@@ -30,12 +30,11 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 
 
 ## 🌟 Self-development | Hobbyist Experience
-🧪 Generative Model Expertise
-
-* Mastering the art of high-quality data acquisition
-* Amplifying datasets for maximized performance
-* Streamlining the fine-tuning process to achieve unparalleled results
-* Ensuring exceptional generalization for real-world applications
+🧪 Generative Models 
+* 🌟 Mastering high-quality data acquisition to ensure an extensive and diverse dataset.
+* 🔥 Amplifying datasets for maximized performance and improved model accuracy.
+* ⚙️ Streamlining the fine-tuning process, Low-Rank Adaptation to optimize the Stable Diffusion model's critical cross-attention layers.
+* 🌐 Ensuring exceptional generalization, enabling the model to effectively adapt to abstract and unexpected application usescases.
 
 💻 Essential tools
 * 🐍 Python & Julia: Harnessing the power of Python for a wide range of data science and web development projects.

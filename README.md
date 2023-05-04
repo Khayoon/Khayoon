@@ -1,6 +1,4 @@
-## 🌟 Portfolio 
-Web developer and data science aficionado, tech wizard who loves gizmos, gadets and programming. Canadian 
-
+## Web developer and data science aficionado, tech wizard who loves gizmos, gadets and programming. Canadian 
 🌐 Professional Expertise:
 * 🎨 CSS & HTML: Delivering visually stunning and responsive websites since 2019
 * 🚀 JavaScript: Mastering dynamic web development since 2015
@@ -29,7 +27,7 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 - [ ] Homework
 
 
-## 🌟 Self-development | Hobbyist Experience
+## Self-development | Hobbyist Experience
 🧪 Generative Models 
 * 🌟 Mastering high-quality data acquisition to ensure an extensive and diverse dataset.
 * 🔥 Amplifying datasets for maximized performance and improved model accuracy.

@@ -1,6 +1,6 @@
 ## 🌟 Portfolio 
 
-A web developer and data science aficionado, tech wizard who loves gizmos, gadets and fun $79 AAA games.
+Web developer and data science aficionado, tech wizard who loves gizmos, gadets and fun $79 AAA games. Canadian 
 
 🌐 Professional Expertise:
 * 🎨 CSS & HTML: Delivering visually stunning and responsive websites since 2019

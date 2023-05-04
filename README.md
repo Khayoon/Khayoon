@@ -9,8 +9,8 @@
 ### 1. 🚀 Building 4 Fullstack Apps with Vercel & Astro's React Integration
 - Already on the path to success with 2 apps in progress with working client-side hydration!
 
-### 2. 🌇 Volunteering work for mayoral-candidate's website
-- Currently in the maintaining and onboarding phase, commitment to an impactful community engagement
+### 2. 🌇 Contribute to React and Tensorflow's public source code repos: 
+- Dedicating time and expertise to open-source initiatives that are helping to advance and shape the future of the web.
 
 ### 3. Complete [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit1/summary?fw=pt)
 

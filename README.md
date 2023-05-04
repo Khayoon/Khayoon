@@ -3,9 +3,9 @@
 A web developer and data science aficionado, tech wizard who loves gizmos, gadets and fun $79 AAA games.
 
 🌐 Professional Expertise:
-🎨 CSS & HTML: Delivering visually stunning and responsive websites since 2019
-🚀 JavaScript: Mastering dynamic web development since 2015
-⚛️ Node and React: Full stack web developer building intuitive user experiences since 2020
+* 🎨 CSS & HTML: Delivering visually stunning and responsive websites since 2019
+* 🚀 JavaScript: Mastering dynamic web development since 2015
+* ⚛️ Node and React: Full stack web developer building intuitive user experiences since 2020
 
 ## 🎯 Programming goals 
 

@@ -1,5 +1,4 @@
 ## 🌟 Portfolio 
-
 Web developer and data science aficionado, tech wizard who loves gizmos, gadets and fun $79 AAA games. Canadian 
 
 🌐 Professional Expertise:
@@ -9,11 +8,11 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 
 ## 🎯 Programming goals 
 
-### 🚀 Building 4 fullstack 'vercel apps' using Astro's integration of React 
+### 🚀 Building 4 fullstack apps using Vercel and Astro's integration of client-side hydration on React 
 - Already on the path to success with 2 apps in progress, project for experience and one showcasing creativity in what it caters to, and efficiency in how it presents itself.
 
 ### 🌇 Volunteering work for mayoral-candidate Chloe Brown's website
-- Currently in the maintaining and onboarding phase, demonstrating commitment to impactful community engagement
+- Currently in the maintaining and onboarding phase, commitment to an impactful community engagement
 
 ### Complete [Deep Reinforcement Learning Course]([An ambitious journey to enhance skills and knowledge in the field of artificial intelligence](https://huggingface.co/learn/deep-rl-course/unit1/summary?fw=pt))
 
@@ -31,7 +30,6 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 
 
 ## 🌟 Self-development | Hobbyist Experience
-
 🧪 Generative Model Expertise
 
 * Mastering the art of high-quality data acquisition
@@ -40,6 +38,6 @@ Web developer and data science aficionado, tech wizard who loves gizmos, gadets 
 * Ensuring exceptional generalization for real-world applications
 
 💻 Essential tools
-🐍 Python & Julia: Harnessing the power of Python for a wide range of data science and web development projects.
-🔥 TypeScript OOP: Embracing the future, looking to become proficient in TypeScript.
+* 🐍 Python & Julia: Harnessing the power of Python for a wide range of data science and web development projects.
+* 🔥 TypeScript OOP: Embracing the future, looking to become proficient in TypeScript.
 

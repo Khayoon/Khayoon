@@ -1,9 +1,9 @@
-## 🌐 Professional Expertise:
+## 🌐 Professional experience:
 *  CSS & HTML: Delivering visually stunning and responsive websites since 2019
 *  JavaScript: Mastering dynamic web development since 2015
 *  Node and React: Full stack web developer building intuitive user experiences since 2020
 
-## 🎯 Programming goals 
+## 🎯 May to August goals:
 
 ### 1. Building 3 Fullstack Apps with Vercel & Astro's React Integration
 - Already on the path to success with 2 apps in progress with working client-side hydration!

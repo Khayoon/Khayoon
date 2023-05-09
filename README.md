@@ -14,11 +14,11 @@
 ### 3. Complete  [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit1/summary?fw=pt)
 
 #### [Week 1 - Unit 1. Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit1/introduction?fw=pt)
-- [ ] Course
+- [x] Course
 - [x] Homework
 
 #### [Week 2 - Making a game with an AI capable of learning](https://huggingface.co/learn/deep-rl-course/unitbonus1/introduction?fw=pt)
-- [ ] Course
+- [x] Course
 - [ ] Homework
 
 #### [Week 3 - 2. Q-Learning](https://huggingface.co/learn/deep-rl-course/unit2/introduction?fw=pt)

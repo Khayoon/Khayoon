@@ -30,17 +30,15 @@
 - [x] Homework
   
 #### [Week 5 - ML agents](https://huggingface.co/learn/deep-rl-course/unit5/introduction?fw=pt)
+- [x] Course
+- [x] Homework
+
+#### [Week 6]
+- [x] Course
+- [x] Homework
+#### [Week 7]
 - [] Course
 - [] Homework
-
 ## Self-development | Hobbyist Experience
-🧪 Generative Models 
-* 🌟 Mastering high-quality data acquisition to ensure an extensive and diverse dataset.
-* Amplifying datasets for maximized performance and improved model accuracy.
-* ⚙️ Streamlining the fine-tuning process, Low-Rank Adaptation to optimize the Stable Diffusion model's critical cross-attention layers.
-*  Ensuring exceptional generalization, enabling the model to effectively adapt to abstract and unexpected application usescases.
-
-💻 Essential tools
-* 🐍 Python & Julia: Harnessing the power of Python for a wide range of data science and web development projects.
-* 🔥 TypeScript OOP: Embracing the future, looking to become proficient in TypeScript.
+TypeScript : Embracing the future, looking to become proficient in TypeScript.
 

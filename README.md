@@ -37,8 +37,7 @@
 - [x] Course
 - [x] Homework
 #### [Week 7]
-- [] Course
+- [x] Course
 - [] Homework
 ## Self-development | Hobbyist Experience
-TypeScript : Embracing the future, looking to become proficient in TypeScript.
-
+TypeScript 

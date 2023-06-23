@@ -38,6 +38,6 @@
 - [x] Homework
 #### [Week 7]
 - [x] Course
-- [] Homework
-## Self-development | Hobbyist Experience
+- [x] Homework
+## | Hobbyist Experience
 TypeScript 

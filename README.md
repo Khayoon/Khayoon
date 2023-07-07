@@ -1,5 +1,11 @@
-## Tool of the trade:
-*  CSS & HTML: loving the new upgrades CSS3 got in 2023!
+
 *  JavaScript: I know it well
-*  Node and React: Full stack web developer building intuitive user experiences like mayoral candidate's [chloebrown.ca](https://chloebrown.ca/) since 2020
+
+* Typescript: Im quickly getting the hang of!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khayoon&show_icons=true&locale=en&layout=compact" alt="Khayoon" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khayoon&" alt="Khayoon" /></p>
+
 

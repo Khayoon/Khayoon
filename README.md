@@ -10,7 +10,7 @@ Click any screenshot to try the project. Each card also links to its repository.
 
 ## Live applications
 
-Useful tools, interactive data and interfaces built for the web.
+Interactive data and interfaces built for the web.
 
 <table>
 <tr>
@@ -31,27 +31,27 @@ Useful tools, interactive data and interfaces built for the web.
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://khayoon.github.io/upstream-atlas/"><img src="assets/portfolio/upstream-atlas.jpg" alt="Upstream Atlas — Explore Ontario river systems and export animated maps as MP4." width="100%"></a>
-  <h3><a href="https://khayoon.github.io/upstream-atlas/">Upstream Atlas</a></h3>
-  <p>Explore Ontario river systems and export animated maps as MP4.</p>
-  <p><sub>Interactive cartography · Canvas · Video export</sub></p>
-  <p><a href="https://khayoon.github.io/upstream-atlas/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/upstream-atlas">Repository</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://khayoon.github.io/canada-noise-map/"><img src="assets/portfolio/canada-noise-map.jpg" alt="Canada Noise Map — Explore estimated daytime and nighttime transportation noise." width="100%"></a>
-  <h3><a href="https://khayoon.github.io/canada-noise-map/">Canada Noise Map</a></h3>
-  <p>Explore estimated daytime and nighttime transportation noise.</p>
-  <p><sub>JavaScript · MapLibre GL · PMTiles</sub></p>
-  <p><a href="https://khayoon.github.io/canada-noise-map/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/canada-noise-map">Repository</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
   <a href="https://khayoon.github.io/Neurotrino/"><img src="assets/portfolio/Neurotrino.jpg" alt="Neurotrino — An illustrated supplement field guide with sources and saved collections." width="100%"></a>
   <h3><a href="https://khayoon.github.io/Neurotrino/">Neurotrino</a></h3>
   <p>An illustrated supplement field guide with sources and saved collections.</p>
   <p><sub>Next.js · React · TypeScript · Static public edition</sub></p>
   <p><a href="https://khayoon.github.io/Neurotrino/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/Neurotrino">Repository</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://khayoon.github.io/first-fields/"><img src="assets/portfolio/first-fields.jpg" alt="The First Fields — An illustrative atlas of agriculture’s spread with timeline playback and crop and livestock layers." width="100%"></a>
+  <h3><a href="https://khayoon.github.io/first-fields/">The First Fields</a></h3>
+  <p>An illustrative atlas of agriculture’s spread with timeline playback and crop and livestock layers.</p>
+  <p><sub>JavaScript · Canvas · Animated cartography</sub></p>
+  <p><a href="https://khayoon.github.io/first-fields/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/Khayoon.github.io/tree/main/first-fields">Repository</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://khayoon.github.io/upstream-atlas/"><img src="assets/portfolio/upstream-atlas.jpg" alt="Upstream Atlas — Explore Ontario river systems and export animated maps as MP4." width="100%"></a>
+  <h3><a href="https://khayoon.github.io/upstream-atlas/">Upstream Atlas</a></h3>
+  <p>Explore Ontario river systems and export animated maps as MP4.</p>
+  <p><sub>Interactive cartography · Canvas · Video export</sub></p>
+  <p><a href="https://khayoon.github.io/upstream-atlas/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/upstream-atlas">Repository</a></p>
 </td>
 <td width="50%" valign="top">
   <a href="https://imhomeless.ca/"><img src="assets/portfolio/imhomeless.jpg" alt="imhomeless.ca — Canadian support resources, a private journal and personal goals." width="100%"></a>
@@ -102,18 +102,18 @@ Geography, language, natural systems and history — made explorable.
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://khayoon.github.io/snow-word-atlas/"><img src="assets/portfolio/snow-word-atlas.jpg" alt="Snow Word Atlas — Explore snow words, native scripts and word origins across 106 language varieties." width="100%"></a>
-  <h3><a href="https://khayoon.github.io/snow-word-atlas/">Snow Word Atlas</a></h3>
-  <p>Explore snow words, native scripts and word origins across 106 language varieties.</p>
+  <a href="https://khayoon.github.io/snow-word-atlas/"><img src="assets/portfolio/word-atlases.jpg" alt="Word Atlases — Snow and Horse Word Atlas screenshots split diagonally" width="100%"></a>
+  <h3>Word Atlases</h3>
+  <p>Explore snow and horse words, native scripts and word origins across Europe and its neighbours.</p>
   <p><sub>D3 · SVG · GeoJSON · High-resolution export</sub></p>
-  <p><a href="https://khayoon.github.io/snow-word-atlas/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/snow-word-atlas">Repository</a></p>
+  <p><a href="https://khayoon.github.io/snow-word-atlas/">Snow ↗</a> &nbsp;·&nbsp; <a href="https://khayoon.github.io/horse-word-atlas/">Horse ↗</a><br><sub>Repositories: <a href="https://github.com/Khayoon/snow-word-atlas">Snow</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/horse-word-atlas">Horse</a></sub></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://khayoon.github.io/horse-word-atlas/"><img src="assets/portfolio/horse-word-atlas.jpg" alt="Horse Word Atlas — Trace horse words and their ancestry across 128 language varieties." width="100%"></a>
-  <h3><a href="https://khayoon.github.io/horse-word-atlas/">Horse Word Atlas</a></h3>
-  <p>Trace horse words and their ancestry across 128 language varieties.</p>
-  <p><sub>D3 · SVG · Linguistic data · High-resolution export</sub></p>
-  <p><a href="https://khayoon.github.io/horse-word-atlas/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/horse-word-atlas">Repository</a></p>
+  <a href="https://khayoon.github.io/eastern-farming-expansion/"><img src="assets/portfolio/eastern-farming-expansion.jpg" alt="Eastern Farming Expansion — A dated map of farming’s eastern spread, with archaeological evidence and uncertainty notes." width="100%"></a>
+  <h3><a href="https://khayoon.github.io/eastern-farming-expansion/">Eastern Farming Expansion</a></h3>
+  <p>A dated map of farming’s eastern spread, with archaeological evidence and uncertainty notes.</p>
+  <p><sub>Python · Pillow · pyproj · Static cartography</sub></p>
+  <p><a href="https://khayoon.github.io/eastern-farming-expansion/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/eastern-farming-expansion">Repository</a></p>
 </td>
 </tr>
 <tr>
@@ -157,11 +157,11 @@ A few more things I enjoyed building.
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://khayoon.github.io/CompTIA-Security-701-mindmaps-notes/"><img src="assets/portfolio/security-mindmaps.jpg" alt="Security+ Mind Maps — Thirteen interactive study maps that make security topics easier to navigate." width="100%"></a>
-  <h3><a href="https://khayoon.github.io/CompTIA-Security-701-mindmaps-notes/">Security+ Mind Maps</a></h3>
-  <p>Thirteen interactive study maps that make security topics easier to navigate.</p>
-  <p><sub>HTML · Markmap · Visual learning</sub></p>
-  <p><a href="https://khayoon.github.io/CompTIA-Security-701-mindmaps-notes/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/CompTIA-Security-701-mindmaps-notes">Repository</a></p>
+  <a href="https://khayoon.github.io/canada-noise-map/"><img src="assets/portfolio/canada-noise-map.jpg" alt="Canada Noise Map — Explore estimated daytime and nighttime transportation noise." width="100%"></a>
+  <h3><a href="https://khayoon.github.io/canada-noise-map/">Canada Noise Map</a></h3>
+  <p>Explore estimated daytime and nighttime transportation noise.</p>
+  <p><sub>JavaScript · MapLibre GL · PMTiles</sub></p>
+  <p><a href="https://khayoon.github.io/canada-noise-map/">Open live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Khayoon/canada-noise-map">Repository</a></p>
 </td>
 <td width="50%" valign="top">
   <h3>More code to explore</h3>
